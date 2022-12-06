@@ -6,7 +6,7 @@ Cette checklist est à destination des personnes intervenant sur un site WordPre
 
 Dernière modification le 6 décembre 2022  
 Ce document est disponible sous licence [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) / GPLv3  
-Auteur : [Agence WordPress Whodunit]()https://whodunit.fr)  
+Auteur : [Agence WordPress Whodunit](https://whodunit.fr)  
 Contact : Jean-Baptiste Audras – <jean-baptiste@whodunit.fr>  
 
 ## Images
