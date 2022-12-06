@@ -8,6 +8,10 @@ Dernière modification le 6 décembre 2022
 Ce document est disponible sous licence [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) / GPLv3  
 Auteur : [Agence WordPress Whodunit](https://whodunit.fr)  
 Contact : Jean-Baptiste Audras – <jean-baptiste@whodunit.fr>  
+  
+
+![Agence WordPress Whodunit](https://www.whodunit.fr/wp-content/uploads/2022/12/wdt-logo-full_fond-blanc10x-petit-300x47.png)
+  
 
 ## Images 🖼
 
