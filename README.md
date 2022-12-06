@@ -9,7 +9,7 @@ Ce document est disponible sous licence [Creative Commons BY-NC-SA](https://crea
 Auteur : [Agence WordPress Whodunit](https://whodunit.fr)  
 Contact : Jean-Baptiste Audras – <jean-baptiste@whodunit.fr>  
 
-## Images
+## Images 🖼
 
 1. Préparer une alternative textuelle pour les images porteuses d’information.  
 Pour plus d’informations, [consulter notre guide pour choisir le bon texte alternatif pour vos images](https://www.whodunit.fr/comment-choisir-le-texte-alternatif-de-vos-images-sur-wordpress/).  
@@ -19,7 +19,7 @@ __(Accessibilité)__ __(Référencement)__
 Note : les images concernées seront automatiquement converties au format WebP et toutes les images du site seront automatiquement optimisées lors de la mise en production du site.  
 __(Eco-conception)__
 
-## Liens
+## Liens 🔗
 
 3. Prévoir un intitulé (texte visible et cliquable) pertinent. Éviter les formulations génériques de type « en savoir plus » ou « lire la suite ».
 __(Accessibilité)__ __(Référencement)__
@@ -34,7 +34,7 @@ __(Accessibilité)__ __(Expérience d’utilisation)__
 6. Vérifier que les liens utilisés sur le site sont bien des liens valides et ne tombent pas sur une page d’erreur 404.  
 __(Expérience d’utilisation)__
 
-## Langues / internationalisation
+## Langues / internationalisation 🌐
 
 7. Indiquer les changements de langue (via l’éditeur de blocs en utilisant le bouton de formatage de l’attribut de langue [fourni par l’extension dédiée de Whodunit](https://fr.wordpress.org/plugins/lang-attribute/)).  
 __(Accessibilité)__
@@ -45,7 +45,7 @@ __(Accessibilité)__
 9. Si le site ou la page a une vocation internationale, l’indicatif téléphonique des numéros de téléphone est indiqué, et le pays est indiqué sur les adresse postales.  
 __(Expérience d’utilisation)__
 
-## Contenus textuels
+## Contenus textuels 📃
 
 10. La hiérarchie des titres et sous-titres est cohérente sur chaque page, en utilisant les 6 niveaux de titres à votre disposition.  
 Veiller à ce que la structure ne comporte pas de « trous » : un titre de niveau 2 ne doit pas être suivi d’un titre 4, 5 ou 6, par exemple, mais d’un titre de niveau 2 ou de niveau 3.  
@@ -70,7 +70,7 @@ __(Expérience d’utilisation)__
 16. Le titre principal de chaque page permet d’identifier son contenu.  
 __(Expérience d’utilisation)__ __(Référencement)__
 
-## Contenus téléchargeables
+## Contenus téléchargeables 📂
 
 17. Indiquer le format et le poids des fichiers téléchargeables. Exemple : "télécharger notre brochure (PDF, 56 Ko)".  
 __(Accessibilité)__
@@ -81,7 +81,7 @@ __(Expérience d’utilisation)__
 19. La langue des fichiers proposés en téléchargement est indiquée si elle diffère de la langue de la page où le fichier peut-être téléchargé.  
 __(Expérience d’utilisation)__
 
-## Contenus multimédias et interactifs
+## Contenus multimédias et interactifs 📽
 
 20. Les vidéos proposant une bande sonore doivent être sous-titrées ou une transcription textuelle doit être proposée.  
 __(Accessibilité)__ __(Référencement)__
@@ -98,7 +98,7 @@ __(Eco-conception)__
 24. Limiter le nombre de carrousels présents sur le site, et ne pas en avoir plus d’un par page (l’idéal étant de ne pas en avoir).  
 __(Eco-conception)__
 
-## Métadonnées
+## Métadonnées 🏷
 
 25. Prévoir le contenu de la méta description pour les pages stratégiques. Cette métadonnée sera saisie dans Yoast pour améliorer la visibilité de vos pages dans les résultats de recherche. Longueur maximum : 155 caractères espaces compris.  
 __(Référencement)__
