@@ -1,8 +1,8 @@
-# Checklist de bonnes pratiques pour la contribution de contenu sur WordPress
+# Checklist Whodunit des bonnes pratiques pour la contribution de contenu sur WordPress
 
-Cette checklist est à destination des personnes intervenant sur un site pour en rédiger les contenus (contribution). Elle est basée sur une sélection de critères du [Référentiel Général d’Amélioration de l'Accessibilité (RGAA)](https://accessibilite.numerique.gouv.fr/), du [Référentiel Général d’Eco-conception des Services Numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) et de [règles Opquast](https://checklists.opquast.com/fr/assurance-qualite-web/).
+Cette checklist est à destination des personnes intervenant sur un site WordPress afin d’en rédiger les contenus (contribution). Elle est basée sur une sélection de critères du [Référentiel Général d’Amélioration de l’Accessibilité (RGAA)](https://accessibilite.numerique.gouv.fr/), du [Référentiel Général d’Eco-conception des Services Numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) et de [règles Opquast](https://checklists.opquast.com/fr/assurance-qualite-web/).
 
-À l'origine, elle a été rédigée afin de faciliter la contribution, en prenant en compte les critères principaux permettant de valider les démarches qualités engagées sur le site.
+À l’origine, elle a été rédigée afin de faciliter la contribution, en prenant en compte les critères principaux permettant de valider les démarches qualités engagées sur le site.
 
 Dernière modification le 6 décembre 2022  
 Ce document est disponible sous licence [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) / GPLv3  
@@ -57,7 +57,7 @@ __(Accessibilité)__
 12. Formatage : ne pas utiliser de texte justifié.  
 __(Accessibilité)__ __(Expérience d’utilisation)__
 
-13. Abréviations : indiquer la signification des acronymes et abréviations lors de leur première occurrence. Exemple : « Notre site est conforme au Référentiel Général d’Amélioration de l’Accessibilité (RGAA). Le RGAA permet de s’assurer que le site est consultables par toutes et tous ».  
+13. Abréviations : indiquer la signification des acronymes et abréviations lors de leur première occurrence. Exemple : « Notre site est conforme au Référentiel Général d’Amélioration de l’Accessibilité (RGAA). Le RGAA permet de s’assurer que le site est consultable par toutes et tous ».  
 Il est aussi possible d’utiliser [l’extension dédiée de Whodunit](https://fr.wordpress.org/plugins/abbreviation-button-for-the-block-editor/) (bouton de formatage présent sur chaque bloc).  
 __(Accessibilité)__
 
