@@ -56,7 +56,7 @@ __(Accessibilité)__
 __(Accessibilité)__ __(Expérience d’utilisation)__
 
 13. Abréviations : indiquer la signification des acronymes et abréviations lors de leur première occurrence. Exemple : « Notre site est conforme au Référentiel Général d’Amélioration de l’Accessibilité (RGAA). Le RGAA permet de s’assurer que le site est consultables par toutes et tous ».  
-Il est aussi possible d’utiliser [l’extension dédiée de Whodunit (bouton de formatage présent sur chaque bloc)](https://fr.wordpress.org/plugins/abbreviation-button-for-the-block-editor/).
+Il est aussi possible d’utiliser [l’extension dédiée de Whodunit (bouton de formatage présent sur chaque bloc)](https://fr.wordpress.org/plugins/abbreviation-button-for-the-block-editor/).  
 __(Accessibilité)__
 
 14. Les éléments textuels et graphiques des pages de contenu utilisent la charte graphique (couleurs, typos) disponible dans votre backoffice, pour assurer la cohérence et la persistance de la charte au travers de l’ensemble du site.  
