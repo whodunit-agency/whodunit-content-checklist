@@ -83,7 +83,7 @@ __(Expérience d’utilisation)__
 20. Les vidéos proposant une bande sonore doivent être sous-titrées ou une transcription textuelle doit être proposée.  
 __(Accessibilité)__ __(Référencement)__
 
-21. Privilégier l’insertion de vidéos depuis des plateformes tierces Youtube ou Viméo aux vidéos hébergées sur le site (prévoir de déposer les vidéos sur ces plateformes en amont).  
+21. Privilégier l’insertion de vidéos depuis des plateformes tierces Youtube ou Viméo aux vidéos hébergées sur le site (prévoir de déposer les vidéos sur ces plateformes en amont). La lecture des vidéos sera bloquée automatiquement tant que l'internaute n'aura pas donné son consentement pour le dépôt des cookies associés.  
 __(Eco-conception)__
 
 22. Les vidéos, animations et autres contenus interactifs doivent apporter une information complémentaire au contenu de la page.  
